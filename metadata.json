@@ -1,0 +1,5 @@
+{
+  "name": "MindMirror - AI Weekly Insight",
+  "description": "A Notion-style minimalist workspace that uses Gemini to analyze your weekly AI interactions, revealing intellectual focus, patterns, and actionable insights.",
+  "requestFramePermissions": []
+}
